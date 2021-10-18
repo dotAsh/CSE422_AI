@@ -1,4 +1,4 @@
-#P01 ID: 17301131 Lab1
+#P01 
 with open('input','r') as file:
     file = file.readlines()
     EE = int(file[1].strip().split()[0])
